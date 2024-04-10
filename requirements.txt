@@ -7,7 +7,7 @@ tgcrypto
 requests
 youtube-search-python
 youtube-search
-yt-dlp==2023.7.6
+yt-dlp==2024.4.9
 aiofiles==22.1.0
 aiohttp==3.8.3
 motor
