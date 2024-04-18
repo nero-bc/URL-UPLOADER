@@ -9,7 +9,7 @@ youtube-search-python
 youtube-search
 yt-dlp==2023.7.6
 aiofiles==22.1.0
-aiohttp==3.8.3
+aiohttp==3.9.4
 motor
 pymongo
 dnspython
